@@ -11,9 +11,9 @@ int vet[10];
 
 for (int i=0;i<10;i++){
 	switch (i){
-		case 0:
+		case 0:0
 			cout<<"matricula 1 faltou :"<<endl;
-			cout<<"-------------------------"<<endl;
+			cout<<"-------------------------"<<endl;~[=]
 			break;
 		case 1:
 			cout<<"matricula 2 faltou"<<endl;
